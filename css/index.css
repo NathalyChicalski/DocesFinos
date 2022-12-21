@@ -1,0 +1,23 @@
+body{
+    background-image: url(../img/background\ 2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+        font-family: Arial, Helvetica, sans-serif;
+        height: 100vh; 
+        margin: 0 auto;
+        color: #ffffff;
+}
+.navegacao{
+    overflow: hidden;
+    padding-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navegacao a{
+    float: right; 
+    color: rgb(255, 250, 250); 
+    text-decoration: none;
+    padding: 10px;
+}
+.navegacao a:hover{ 
+    color:rgb(221, 180, 65);
+}
